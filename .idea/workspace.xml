@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9cac78-9625-41d5-bcf9-72c76bac9caa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Office2.0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WEV47XWaURduP0kmGXXHfwq1GG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;/home/sxy/Documents/Projects/PycharmProjects/Office2.0/logs/20200302.log" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/res/qss" />
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$/exam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/script/excel" />
+      <recent name="$PROJECT_DIR$/script/pyqt" />
+      <recent name="$PROJECT_DIR$/script/excel/worksheet" />
+      <recent name="$PROJECT_DIR$/script/excel/wrapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.excel">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcelTools2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcelTools2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcelTools2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/utils/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="support" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcelTools2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/excel/support.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcelTools2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.excel" />
+        <item itemvalue="Python.aa" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.support" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9cac78-9625-41d5-bcf9-72c76bac9caa" name="Default Changelist" comment="" />
+      <created>1578714546561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578714546561</updated>
+      <workItem from="1578714550696" duration="262000" />
+      <workItem from="1578736108337" duration="14000" />
+      <workItem from="1580641627214" duration="9126000" />
+      <workItem from="1580695895287" duration="21180000" />
+      <workItem from="1580783998056" duration="45842000" />
+      <workItem from="1580963815731" duration="9795000" />
+      <workItem from="1580977412393" duration="18029000" />
+      <workItem from="1581083600609" duration="831000" />
+      <workItem from="1581084436454" duration="686000" />
+      <workItem from="1581085128262" duration="3028000" />
+      <workItem from="1581129473575" duration="12304000" />
+      <workItem from="1581154588558" duration="32195000" />
+      <workItem from="1581334239823" duration="1202000" />
+      <workItem from="1581680050430" duration="99000" />
+      <workItem from="1581773240794" duration="6215000" />
+      <workItem from="1581844592171" duration="12026000" />
+      <workItem from="1581910824850" duration="11115000" />
+      <workItem from="1581934571506" duration="12387000" />
+      <workItem from="1581948656756" duration="187000" />
+      <workItem from="1582042983589" duration="457000" />
+      <workItem from="1582173460996" duration="778000" />
+      <workItem from="1582279292023" duration="461000" />
+      <workItem from="1582279895964" duration="2345000" />
+      <workItem from="1582293657061" duration="5945000" />
+      <workItem from="1582300647034" duration="4897000" />
+      <workItem from="1582333509948" duration="2844000" />
+      <workItem from="1582375604737" duration="7705000" />
+      <workItem from="1582383725725" duration="1421000" />
+      <workItem from="1582422019029" duration="31829000" />
+      <workItem from="1582471455852" duration="1703000" />
+      <workItem from="1582515725422" duration="2807000" />
+      <workItem from="1582520358800" duration="4000" />
+      <workItem from="1582520365683" duration="1198000" />
+      <workItem from="1582523240799" duration="1804000" />
+      <workItem from="1582529321617" duration="2017000" />
+      <workItem from="1582534906004" duration="3263000" />
+      <workItem from="1582596299896" duration="2296000" />
+      <workItem from="1582599002050" duration="23903000" />
+      <workItem from="1582684032758" duration="2444000" />
+      <workItem from="1582686985830" duration="31038000" />
+      <workItem from="1582787802782" duration="24397000" />
+      <workItem from="1582859337942" duration="16587000" />
+      <workItem from="1582944354270" duration="38835000" />
+      <workItem from="1583029592352" duration="36704000" />
+      <workItem from="1583114300950" duration="20397000" />
+      <workItem from="1583137962325" duration="5785000" />
+      <workItem from="1583155417709" duration="535000" />
+      <workItem from="1583156100416" duration="64000" />
+      <workItem from="1583156194241" duration="194000" />
+      <workItem from="1583156392022" duration="67000" />
+      <workItem from="1583209641538" duration="278000" />
+      <workItem from="1583229509413" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="46" width="800" height="673" key="#Inspections" timestamp="1580979107941">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="46" width="800" height="673" key="#Inspections/0.28.1366.740@0.28.1366.740" timestamp="1580979107941" />
+    <state x="278" y="46" width="800" height="673" key="#Log_Highlighting_(ideolog)" timestamp="1583133289402">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="46" width="800" height="673" key="#Log_Highlighting_(ideolog)/0.28.1366.740@0.28.1366.740" timestamp="1583133289402" />
+    <state x="141" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582302239865">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="141" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.740@0.28.1366.740" timestamp="1582302239865" />
+    <state x="359" y="28" width="629" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582776623697">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="359" y="28" width="629" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1366.740@0.28.1366.740" timestamp="1582776623697" />
+    <state x="416" y="134" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583134207816">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="416" y="134" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1366.740@0.28.1366.740" timestamp="1583134207816" />
+    <state x="440" y="294" width="476" height="178" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1582621579511">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="440" y="294" width="476" height="178" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.28.1366.740@0.28.1366.740" timestamp="1582621579511" />
+    <state x="357" y="28" width="642" height="736" key="#design" timestamp="1582776488024">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="357" y="28" width="642" height="736" key="#design/0.28.1366.740@0.28.1366.740" timestamp="1582776488024" />
+    <state x="466" y="143" width="424" height="480" key="FileChooserDialogImpl" timestamp="1583209645022">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="466" y="143" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1583209645022" />
+    <state width="1320" height="266" key="GridCell.Tab.0.bottom" timestamp="1583143748846">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="266" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1583143748846" />
+    <state width="1320" height="266" key="GridCell.Tab.0.center" timestamp="1583143748846">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="266" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1583143748846" />
+    <state width="1320" height="266" key="GridCell.Tab.0.left" timestamp="1583143748846">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="266" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1583143748846" />
+    <state width="1320" height="266" key="GridCell.Tab.0.right" timestamp="1583143748846">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="266" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1583143748846" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1583137891140">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.28.1366.740@0.28.1366.740" timestamp="1583137891140" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1583137891139">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/0.28.1366.740@0.28.1366.740" timestamp="1583137891139" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1583137891139">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/0.28.1366.740@0.28.1366.740" timestamp="1583137891139" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1583137891139">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1583137891139" />
+    <state x="203" y="28" width="1101" height="730" key="SettingsEditor" timestamp="1583156298406">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="203" y="28" width="1101" height="730" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1583156298406" />
+    <state x="336" y="28" width="683" height="736" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583133971789">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="336" y="28" width="683" height="736" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1366.740@0.28.1366.740" timestamp="1583133971789" />
+    <state x="451" y="305" width="454" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582951255493">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="451" y="305" width="454" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1366.740@0.28.1366.740" timestamp="1582951255493" />
+    <state x="427" y="28" width="501" height="709" key="refactoring.ChangeSignatureDialog" timestamp="1582989381261">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="427" y="28" width="501" height="709" key="refactoring.ChangeSignatureDialog/0.28.1366.740@0.28.1366.740" timestamp="1582989381261" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583124104037">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1583124104037" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Office2_0$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1582713266230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/utils" />
+    <SUITE FILE_PATH="coverage/Office2_0$test.coverage" NAME="test Coverage Results" MODIFIED="1583044666690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Office2_0$wrapper.coverage" NAME="wrapper Coverage Results" MODIFIED="1582301905041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/excel" />
+    <SUITE FILE_PATH="coverage/Office2_0$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1581142641398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/utils" />
+    <SUITE FILE_PATH="coverage/Office2_0$aa.coverage" NAME="aa Coverage Results" MODIFIED="1583137029039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Office2_0$adapter.coverage" NAME="adapter Coverage Results" MODIFIED="1581169965927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/excel/workbook" />
+    <SUITE FILE_PATH="coverage/Office2_0$design.coverage" NAME="design Coverage Results" MODIFIED="1582720399268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/pyqt5" />
+    <SUITE FILE_PATH="coverage/Office2_0$logger.coverage" NAME="logger Coverage Results" MODIFIED="1583132550656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script/utils" />
+    <SUITE FILE_PATH="coverage/Office2_0$office.coverage" NAME="excel Coverage Results" MODIFIED="1583143686151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Office2_0$office__1_.coverage" NAME="office (1) Coverage Results" MODIFIED="1582302149616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
+</project>

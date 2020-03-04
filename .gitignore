@@ -1,0 +1,7 @@
+exam/
+logs/
+cache/
+venv/include/
+script/pyqt5/__pycache__/
+script/excel/__pycache__/
+script/utils/__pycache__/
